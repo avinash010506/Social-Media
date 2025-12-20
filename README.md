@@ -10,8 +10,7 @@ This project focuses on front-end development concepts such as UI design, user i
 - 👤 User profile interface  
 - 🖼️ Photo & video post layout  
 - ❤️ Like and 💬 comment UI  
-- 📱 Responsive design for mobile & desktop  
-- ⚡ Fast and lightweight (no backend)  
+- 📱 Responsive design for mobile & desktop   
 
 ---
 
